@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Copyright 2013 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="intro_title"></string>
+    <string name="intro_message">
+        <![CDATA[
+플래시카드는 암기에 좋은 방법입니다.\n
+반복 활용하면 많은 단어를 오랫동안 기억할 수 있습니다.
+        ]]>
+    </string>
+
+    <string name="concept_title">프로그램 설명</string>
+    <string name="concept_message">
+        <![CDATA[
+        \n
+※ 하루에 암기할 단어 : 30개로 가정하여 설명합니다.\n
+   단계를 하루 단위로 실행합니다. 암기가 안된 단어는 그대로 둡니다.\n\n
+1. 1단계\n
+   (1) 새로운 30개 단어를 외우고 1단계로 옮깁니다.\n
+\n
+2. 2단계\n
+   (1) 1단계에 암기한 단어 중 암기된 단어를 2단계로 옮깁니다.\n
+   (2) 새로운 30개 단어를 외우고 1단계로 옮깁니다.\n
+\n
+3. 3단계\n
+   (1) 2단계에 암기한 단어 중 암기된 단어를 3단계로 옮깁니다.\n
+   (2) 1단계에 암기한 단어 중 암기된 단어를 2단계로 옮깁니다.\n
+   (3) 새로운 30개 단어를 외우고 1단계로 옮깁니다.\n
+\n
+4. 4단계 -\n
+   (1) 3단계에 암기한 단어 중 암기된 단어를 4단계로 옮깁니다.\n
+   (1) 2단계에 암기한 단어 중 암기된 단어를 3단계로 옮깁니다.\n
+   (2) 2단계에 암기한 단어 중 암기된 단어를 2단계로 옮깁니다.\n
+   (3) 새로운 30개 단어를 외우고 1단계로 옮깁니다.\n
+\n
+5. 5단계 -\n
+   (1) 4단계에 암기한 단어 중 암기된 단어를 5단계로 옮깁니다.\n
+   (2) 3단계에 암기한 단어 중 암기된 단어를 4단계로 옮깁니다.\n
+   (3) 2단계에 암기한 단어 중 암기된 단어를 3단계로 옮깁니다.\n
+   (4) 2단계에 암기한 단어 중 암기된 단어를 2단계로 옮깁니다.\n
+   (5) 새로운 30개 단어를 외우고 1단계로 옮깁니다.\n
+        ]]>
+    </string>
+
+</resources>

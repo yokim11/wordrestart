@@ -1,0 +1,410 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#cac9c9"
+        android:textColor="#424242"
+        android:text="@string/top_summary_message"
+        android:layout_span="5"
+        android:padding="10dip"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/textViewUserName" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView1" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#dcdcdc"
+            android:gravity="center_vertical|right"
+            android:measureWithLargestChild="false"
+            android:padding="5dip">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="13sp"
+                android:background="#dcdcdc"
+                android:text="@string/wise_1"
+                android:id="@+id/textViewWiseSaying"
+                android:textStyle="normal|italic"
+                android:typeface="monospace"
+                android:onClick="speakTextViewClieckHandler"
+                android:layout_gravity="center_vertical"
+                android:gravity="fill_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="0.71" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#dcdcdc"
+                android:src="@drawable/ic_leaf_gray"
+                android:id="@+id/imageView3"
+                android:layout_alignWithParentIfMissing="false"
+                android:onClick="wiseWayingRefreshButtonClieckHandler"
+                android:padding="10dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView2" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:shrinkColumns="*"  android:stretchColumns="*" android:background="#ffffff">
+
+        <!-- Row 1 with single column -->
+        <TableRow
+            android:id="@+id/tableRowStat"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:textSize="16dp"
+                android:text="현재 레벨 : 000개\n완료된 단어 : 000개\n진행중인 단어 : 000개"
+                android:layout_span="2"
+                android:background="#42A5F5"
+                android:textColor="#ffffff"
+                android:id="@+id/textViewStat"
+                android:textIsSelectable="false"
+                android:gravity="fill"
+                android:padding="10dp" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:textSize="20sp"
+                android:text="새 단어\n담기"
+                android:layout_span="2"
+                android:background="#9E9E9E"
+                android:textColor="#ffffff"
+                android:gravity="fill_vertical|center_horizontal"
+                android:textStyle="bold"
+                android:id="@+id/tableRowStatCol2"
+                android:onClick="AddFlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row0Col6"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_add_red"
+                android:background="#9E9E9E"
+                android:gravity="center"
+                android:layout_span="1"
+                android:baselineAlignBottom="false"
+                android:onClick="AddFlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row0Col7"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_check_red"
+                android:background="#9E9E9E"
+                android:gravity="center"
+                android:layout_span="1"
+                android:baselineAlignBottom="false"
+                android:onClick="WordSkipButtonClickHandler" />
+
+        </TableRow>
+
+        <!-- Row 2 with 3 columns -->
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/Row1Col1" android:text="Basket #1"
+                android:layout_weight="1" android:background="#dcdcdc"
+                android:textColor="#424242"
+                android:gravity="center"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+            <TextView
+                android:id="@+id/Row1Col2" android:text="Count"
+                android:layout_weight="1" android:background="#d3d3d3"
+                android:textColor="#000000"
+                android:padding="20dip" android:gravity="center"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+            <ImageButton
+                android:id="@+id/Row1Col3"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_flashcard_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:nestedScrollingEnabled="false"
+                android:onClick="FlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row1Col4"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_test_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="WordTestFlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row1Col5"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_trash2_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="ThrashButtonClickHandler" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/Row2Col1" android:text="Basket #2"
+                android:layout_weight="1" android:background="#dcdcdc"
+                android:textColor="#424242"
+                android:padding="20dip" android:gravity="center"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <TextView
+                android:id="@+id/Row2Col2" android:text="Count"
+                android:layout_weight="1" android:background="#d3d3d3"
+                android:textColor="#000000"
+                android:padding="20dip" android:gravity="center"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <ImageButton
+                android:id="@+id/Row2Col3"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_flashcard_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:nestedScrollingEnabled="false"
+                android:onClick="FlashcardButtonClickHandler" />
+            <ImageButton
+                android:id="@+id/Row2Col4"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_test_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="WordTestFlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row2Col5"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_trash2_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="ThrashButtonClickHandler" />
+        </TableRow>
+
+
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/Row3Col1" android:text="Basket #3"
+                android:layout_weight="1" android:background="#dcdcdc"
+                android:textColor="#424242"
+                android:padding="20dip" android:gravity="center"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <TextView
+                android:id="@+id/Row3Col2" android:text="Count"
+                android:layout_weight="1" android:background="#d3d3d3"
+                android:textColor="#000000"
+                android:padding="20dip" android:gravity="center"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <ImageButton
+                android:id="@+id/Row3Col3"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_flashcard_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:nestedScrollingEnabled="false"
+                android:onClick="FlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row3Col4"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_test_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="WordTestFlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row3Col5"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_trash2_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="ThrashButtonClickHandler" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/Row4Col1" android:text="Basket #4"
+                android:layout_weight="1" android:background="#dcdcdc"
+                android:textColor="#424242"
+                android:padding="20dip" android:gravity="center"
+                android:textStyle="normal"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <TextView
+                android:id="@+id/Row4Col2" android:text="Count"
+                android:layout_weight="1" android:background="#d3d3d3"
+                android:textColor="#000000"
+                android:padding="20dip" android:gravity="center"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <ImageButton
+                android:id="@+id/Row4Col3"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_flashcard_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:nestedScrollingEnabled="false"
+                android:onClick="FlashcardButtonClickHandler" />
+            <ImageButton
+                android:id="@+id/Row4Col4"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_test_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:onClick="WordTestFlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:id="@+id/Row4Col5"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_trash2_red"
+                android:background="#cac9c9"
+                android:gravity="center"
+                android:layout_column="4"
+                android:onClick="ThrashButtonClickHandler" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/Row5Col1" android:text="Memorized \nBasket"
+                android:layout_weight="1" android:background="#9E9E9E"
+                android:textColor="#424242"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/Row5Col2" android:text="Count"
+                android:layout_weight="1" android:background="#9E9E9E"
+                android:textColor="#000000"
+                android:padding="20dip" android:gravity="center"
+                android:textSize="20dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+            <ImageButton
+                android:id="@+id/Row5Col3"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_flashcard_red"
+                android:background="#9E9E9E"
+                android:gravity="center"
+                android:nestedScrollingEnabled="false"
+                android:onClick="FlashcardButtonClickHandler" />
+            <ImageButton
+                android:id="@+id/Row5Col4"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_test_gray"
+                android:background="#9E9E9E"
+                android:gravity="center" />
+
+            <ImageButton
+                android:id="@+id/Row5Col5"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/ic_trash2_red"
+                android:background="#9E9E9E"
+                android:gravity="center"
+                android:onClick="ThrashButtonClickHandler" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+        </TableRow>
+
+    </TableLayout>
+    </ScrollView>
+
+</LinearLayout>

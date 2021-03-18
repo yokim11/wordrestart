@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Word Remind</string>
+    <string name="hello_world">Word Remind</string>
+    <string name="concept_button">Help</string>
+    <string name="flashcard_button">Let<![CDATA["'"]]>s start</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_dbcreate">DB Create</string>
+    <string name="action_dbcreate_wise_saying">명언 DB Create</string>
+    <string name="action_dbdelete">Basket Delete</string>
+    <string name="flash_font_size">72sp</string>
+    <string name="title_activity_fullscreen">Flashcard</string>
+    <string name="start_button">Go on</string>
+    <string name="stop_button">Stop it</string>
+    <string name="intro_content">@string/intro_message</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_concept">Help and Gide</string>
+    <string name="previous_button">Previous Set</string>
+    <string name="next_button">Next Set</string>
+    <string name="title_activity_dbcreate">DBCreateActivity</string>
+    <string name="title_activity_top">TopActivity</string>
+    <string name="top_summary_message">Wow님, Hello~</string>
+    <string name="title_activity_word_test">Word Test</string>
+    <string name="title_activity_word_skip">Word Filter</string>
+    <string name="skip_guide">이미 알고 있는 단어는 <b><i>Memorized Basket</i></b>으로 이동 시킬 수 있습니다. <u>체크박스를 선택하면 바로 적용됩니다.</u></string>
+    <string name="title_activity_tts">TTSActivity</string>
+    <string name="title_activity_dbcreate_wise_saying">DBCreateWiseSayingActivity</string>
+
+    <string name="dialog_trash_confirm_message">Basket을 비우시겠습니까?</string>
+    <string name="dialog_yes">예</string>
+    <string name="dialog_cancel">아니오</string>
+</resources>

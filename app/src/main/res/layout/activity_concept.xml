@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sufamily.wordrestart.wordrestart.ConceptActivity"
+    android:padding="10dp">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:fillViewport="false"
+        android:focusable="false"
+        android:focusableInTouchMode="false">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView"
+                android:src="@drawable/wordremind"
+                android:background="@color/theme_text_color"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp" />
+
+            <TextView
+                android:text="@string/concept_message"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp" />
+
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

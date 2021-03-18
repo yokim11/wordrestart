@@ -1,0 +1,118 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="#ffffff"
+    tools:context="com.sufamily.wordrestart.wordrestart.FlashcardTimerTaskActivity">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+
+    <!--backgroud : 0099cc-->
+    <!--text : 33b5e5-->
+
+    <TextView android:id="@+id/fullscreen_content" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:keepScreenOn="true" android:textColor="#FF0000"
+        android:textStyle="bold" android:textSize="72sp" android:gravity="center"
+        android:text="" />
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:layout_gravity="bottom|center_horizontal">
+
+        <LinearLayout android:id="@+id/fullscreen_content_controls" style="?metaButtonBarStyle"
+            android:layout_width="fill_parent" android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black_overlay" android:orientation="horizontal"
+            tools:ignore="UselessParent"
+            android:gravity="center|center_horizontal"
+            android:minHeight="50dp"
+            android:nestedScrollingEnabled="false">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/previousBtn"
+                android:src="@drawable/ic_previous_gray"
+                android:background="?android:selectableItemBackground"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/replayBtn"
+                android:src="@drawable/ic_replay_gray"
+                android:background="?android:selectableItemBackground"
+                android:visibility="visible"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/stopBtn"
+                android:src="@drawable/ic_pause_red"
+                android:background="?android:selectableItemBackground"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+
+            <ImageButton
+                style="?metaButtonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/soundBtn"
+                android:background="?android:selectableItemBackground"
+                android:src="@drawable/ic_sound_on_red"
+                android:visibility="visible"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/startBtn"
+                android:src="@drawable/ic_play_gray"
+                android:background="?android:selectableItemBackground"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+            <ImageButton
+                style="?metaButtonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/soundOffBtn"
+                android:background="?android:selectableItemBackground"
+                android:src="@drawable/ic_sound_off_red"
+                android:visibility="gone"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/nextBtn"
+                android:src="@drawable/ic_next_gray"
+                android:background="?android:selectableItemBackground"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="FlashcardButtonClickHandler" />
+
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+</FrameLayout>

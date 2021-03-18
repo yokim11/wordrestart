@@ -1,0 +1,125 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true">
+
+     <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView3"
+        android:foregroundGravity="center_horizontal">
+
+     <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:textSize="20sp"
+                android:text="Korean"
+                android:background="#42A5F5"
+                android:textColor="#ffffff"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                android:gravity="center_horizontal"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|center_horizontal">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/line1Btn"
+                android:src="@drawable/ic_check_red"
+                android:background="?android:selectableItemBackground"
+                android:onClick="SpeakingButtonClickHandler" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_margin="5dp">
+
+            <TextView
+                android:id="@+id/line1Col1"
+                android:text="@string/tts_text_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:padding="20dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="clip_horizontal|center|center_horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20sp"
+                android:text="English"
+                android:background="#42A5F5"
+                android:textColor="#ffffff"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                android:gravity="center_horizontal"
+                android:textStyle="bold" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical|center_horizontal">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/line2Btn"
+                android:src="@drawable/ic_check_red"
+                android:background="?android:selectableItemBackground"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:onClick="SpeakingButtonClickHandler" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:layout_margin="5dp">
+
+            <TextView
+                android:id="@+id/line2Col1"
+                android:text="@string/tts_text_2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="left|center_horizontal"
+                android:layout_gravity="bottom"
+                android:padding="20dp" />
+
+
+        </TableRow>
+
+    </TableLayout>
+</ScrollView>
+</LinearLayout>

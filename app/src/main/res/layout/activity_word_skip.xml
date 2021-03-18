@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9E9E9E"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/skip_guide"
+            android:background="#42A5F5"
+            android:textColor="#ffffff"
+            android:id="@+id/textViewSkipGuide"
+            android:gravity="center|center_horizontal"
+            android:padding="10dp"
+            android:layout_margin="10dp" />
+
+        <ListView
+            android:id="@+id/listViewWordList"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </LinearLayout>
+
+</LinearLayout>

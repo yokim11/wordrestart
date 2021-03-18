@@ -1,0 +1,380 @@
+l8|1|west|[명] 서쪽 / [형] 서쪽의
+l8|2|than|[전][접] ~보다
+l8|3|across|[전] [~를] 건너서, 가로질러
+l8|4|once|[부] 한 번
+l8|5|from|[전] ~에서부터, ~부터
+l8|6|tall|[형] 키가 큰, 높은
+l8|7|light|[명] 빛, 광선 / [형] 가벼운, 밝은, 옅은
+l8|8|tidy|[형] 단정한
+l8|9|steady|[형] 꾸준한
+l8|10|equal|[형] 동일한
+l8|11|until|[전][접] ~[때]까지
+l8|12|there|[부] 거기에
+l8|13|only|[형] 유일한
+l8|14|fat|[명] 지방, [형] 살찐, 뚱뚱한
+l8|15|sure|[형] 확신하는, 확실한
+l8|16|heavy|[형] 무거운, 많은, 심한
+l8|17|expensive|[형] 값비싼
+l8|18|pure|[형] 순수한
+l8|19|excellent|[형] 훌륭한
+l8|20|because|[접] ~때문에
+l8|21|ago|[부] ~전에
+l8|22|abroad|[부）해외에, 해외로
+l8|23|fresh|[형] 신선한
+l8|24|clever|[형] 영리한
+l8|25|same|[형] 똑같은
+l8|26|serious|[형] 심각한, 진지한
+l8|27|present|[명] 선물 / [형] 현재의
+l8|28|especial|[형] 특별한
+l8|29|lazy|[형] 게으른
+l8|30|native|[형] 태어난 곳의, 토박이의
+l8|31|afraid|[형] 두려워하는
+l8|32|cloudy|[형] 흐린, 구름 낀
+l8|33|dry|[형] 건조한
+l8|34|broad|[형] 넓은
+l8|35|important|[형] 중요한
+l8|36|elementary|[형] 초보의, 기본적인
+l8|37|complete|[[동형]] 완 완료벽하한다
+l8|38|funny|[형] 우스운, 재미있는
+l8|39|each|[형] 각각의, 각자의
+l8|40|behind|[전] ~뒤에
+l8|41|far|[형] 먼 / [부] 멀리, 훨씬
+l8|42|glad|[형] 기쁜
+l8|43|rich|[형] 부유한, 풍부한
+l8|44|maybe|[부] 아마도
+l8|45|slow|[형] 느린
+l8|46|weak|[형] 약한, 힘이 없는
+l8|47|dear|[형] 사랑하는, 소중한
+l8|48|almost|[부] 거의
+l8|49|difficult|[형] 어려운
+l8|50|many|[형] 많은 many
+l8|51|sometimes|[부] 때때로
+l8|52|quiet|[형] 조용한
+l8|53|idle|[형] 게으른, 나태한
+l8|54|how|[부] 얼마나, 어떻게, 정말[감탄문]
+l8|55|warm|[형] 따뜻한
+l8|56|specific|[형] 구체적인
+l8|57|wide|[형] 넓은, 너른
+l8|58|interesting|[형] 흥미로운
+l8|59|bitter|[형] 쓴, 혹독한
+l8|60|receive|（동] 받다
+l8|01|abroad|[부] 배에, 배를 타고
+l8|02|junk|[명] 쓰레기, 잡동사니
+l8|03|absorb|[동] 흡수하다, 빨아들이다
+l8|04|keen|[형] 흥미 있는, 열심인
+l8|05|abstract|[형] 추상적인
+l8|06|knit|[동] 뜨다, 짜다, 뜨개질하다
+l8|07|admission|[명] 1. 입장, 입학 2. 입장료
+l8|08|lap|[명] 1. 무릎  2. 한 바퀴
+l8|09|chemist|[명] 화학자
+l8|10|offend|[동] 화나게 하다, 기분을 상하게 하다
+l8|11|collection|[명] 1. 수집, 소장품 2. 모금
+l8|12|offense|[명] 1. 위반 2. 기분 상함 3. 공격
+l8|13|combination|[명] 조합, 결합
+l8|14|officially|[부] 공식적으로
+l8|15|comfort|[명] 안락^[동] 위로하다, 달래다
+l8|16|operator|[명] 1. 기사 2. (전화) 교환원
+l8|17|deposit|[명] 예금, 보증금^[동] 예금하다
+l8|18|preparation|[명] 준비
+l8|19|depth|[명] 깊이
+l8|20|presentation|[명] 1. 프레젠테이션 2. 수여
+l8|21|despite|[전] ~에도 불구하고
+l8|22|prevent|[동] 1. 막다, 방해하다 2. 예방하다
+l8|23|destruction|[명] 파괴
+l8|24|prime|[형 ] 첫째의, 주요한
+l8|25|exact|[형] 정확한
+l8|26|satisfy|[동] 만족시키다
+l8|27|excitement|[명] 흥분
+l8|28|saving|[명] 1. 절약 2. (~s) 저축, 저금
+l8|29|expand|[동] 확장하다, 팽창하다
+l8|30|seal|[동] 봉하다, 밀봉하다^[명] 봉인, 인장
+l8|31|expense|[명] 지출, 비용
+l8|32|secretly|[부] 비밀로, 몰래
+l8|33|harsh|[형] 가혹한, 호된, 거친
+l8|34|thunder|[명] 천둥^[동] 천둥 치다
+l8|35|haste|[형] 서두름, 급함
+l8|36|tide|[명] 조수 간만
+l8|37|historical|[형] 역사의 역사적인
+l8|38|totally|[부] 완전히
+l8|39|horror|[명] 공포
+l8|40|toward|[전] ~의 쪽으로, ~를 향하여
+l8|01|agent|[명] 대리인, 대리점, 중개인
+l8|02|latest|[형] 최신의
+l8|03|aircraft|[명] 항공기
+l8|04|launch|[동] 발사하다, 착수하다, 출시하다
+l8|05|alien|[명] 외계인
+l8|06|leading|[형] 주요한, 일류의, 뛰어난
+l8|07|alike|[형] 서로 같은, 비슷한^[부] 똑같이
+l8|08|lightning|[명] 번개
+l8|09|comment|[명] 논평, 언급^[동] 논평하다, 의견을 말하다
+l8|10|option|[명] 선택, 선택권
+l8|11|compact|[형] 소형의, 아담한
+l8|12|optional|[형] 선택의
+l8|13|competition|[명] 대회, 경쟁
+l8|14|overflow|[동] 넘쳐흐르다, 넘쳐나다
+l8|15|competitor|[명] 경쟁자, 경쟁상대
+l8|16|overlook|[동] 1. ~을 내려다보다 2. 간과하다
+l8|17|device|[명] 1. 장치, 기구 2. 고안, 계획
+l8|18|prisoner|[명] 죄수, 포로
+l8|19|dictation|[명] 받아쓰기
+l8|20|process|[명] 과정, 절차^[동] 처리하다, 가공하다
+l8|21|difficulty|[명] 어려움, 곤란
+l8|22|profession|[명] 직업 (전문직)
+l8|23|directly|[부] 1. 똑바로 2. 직접
+l8|24|promote|[동] 1. 승진시키다 2. 촉진하다
+l8|25|expert|[명] 전문가
+l8|26|security|[명] 안전, 보안
+l8|27|explorer|[명] 탐험가
+l8|28|seek|[동] 찾다, 추구하다
+l8|29|extend|[동] 1. 연장하다 2. 뻗다
+l8|30|senior|[형] 1. 연상의 2. 선배의, 선임의^[명] 선배
+l8|31|extension|[명] 1. 연장, 확장 2. 내선
+l8|32|shadow|[명] 그림자
+l8|33|identical|[형] 똑같은, 동일한
+l8|34|trace|[명] 자취, 흔적^[동] 추적하다
+l8|35|idiom|[명] 숙어, 관용구
+l8|36|traditional|[형] 전통적인
+l8|37|ignore|[동] 무시하다, 모르는 체하다
+l8|38|transfer|[동] 1. 옮기다 2. 갈아 타다
+l8|39|illegal|[형] 불법의, 위법의
+l8|40|transform|[동] 변형시키다, 바꾸다
+l8|01|announce|[동] 발표하다, 알리다
+l8|02|lively|[형] 생기 넘친, 활기찬
+l8|03|annual|[형] 1년의, 해마다의
+l8|04|loan|[명] 대부, 대여, 융자^[동] 빌려주다
+l8|05|apology|[명] 사과, 사죄
+l8|06|location|[명] 위치, 장소
+l8|07|applicant|[명] 지원자, 신청자
+l8|08|loss|[명] 손실, 분실, 손해
+l8|09|completely|[부] 완전히
+l8|10|overseas|[형] 외국의, 해외에 있는^[부] 해외로, 외국으로
+l8|11|composer|[명] 작곡가
+l8|12|overweight|[형] 과체주의
+l8|13|conference|[] 
+l8|14|paddle|[명] 노^[동] 노를 젓다
+l8|15|confess|[동] 고백(자백)하다, 인정하다
+l8|16|paragraph|[명] 단락
+l8|17|director|[명] 1. 이사, 국장 2. (영화) 감독
+l8|18|pronounce|[동] 발음하다
+l8|19|disabled|[형] 신체 장애의, 불구가 된
+l8|20|properly|[부] 1. 올바르게 2. 알맞게
+l8|21|disagreement|[명] 의견차이, 논쟁
+l8|22|propose|[동] 1. 제안하다 2. 청혼하다
+l8|23|disconnect|[동] (연락, 접속, 전원) 끊다
+l8|24|protection|[명] 보호
+l8|25|eyesight|[명] 시력, 시각
+l8|26|share|[동] 나누다, 공유하다^[명] 몫
+l8|27|faithful|[형] 충실한, 성실한
+l8|28|shortly|[부] 곧, 이내
+l8|29|fascinating|[형] 정말 흥미로운, 확 끌리는
+l8|30|signal|[명] 신호^[동] 신호를 보내다
+l8|31|fashionable|[형] 유행하는, 유행에 따르는
+l8|32|simply|[부] 1. 간단히, 단순하게 2. 단지
+l8|33|illustration|[명] 삽화
+l8|34|translation|[명] 번역, 통역
+l8|35|imagination|[명] 상상, 상상력
+l8|36|translator|[명] 번역가, 통역가
+l8|37|imitate|[동] 모방하다, 흉내 내다
+l8|38|trial|[명] 재판
+l8|39|immediate|[형] 당장의 즉시의
+l8|40|triple|[형] 3중의^[동] 3배가 되다
+l8|01|appoint|[동] 임명하다, 지명하다
+l8|02|loyal|[형] 충성스러운
+l8|03|approach|[동] 접근하다, 다가오다^[명] 접근, 접근법
+l8|04|luxury|[명] 사치^[형] 호화로운, 고급의
+l8|05|arrangement|[명] 1. 준비 2. 배열, 정돈
+l8|06|manual|[형] 손으로 하는, 수동의^[명] 사용설명서
+l8|07|arrow|[명] 화살, 화살표
+l8|08|marriage|[명] 결혼(생활)
+l8|09|connection|[명] 연결, 관계
+l8|10|partly|[부] 부분적으로
+l8|11|construct|[동] 건설하다, 건축하다
+l8|12|partner|[명] 동료, 상대, 짝
+l8|13|consult|[동] 1. 상담하다 2. (책) 참고하다
+l8|14|passage|[명] 1. 한 구절 2. 통행, 통로
+l8|15|consumer|[명] 소비자
+l8|16|password|[명] 암호
+l8|17|dismiss|[동] 1. 해산시키다 2. 해고하다
+l8|18|publisher|[명] 출판사
+l8|19|distinct|[형] 1. 다른 2. 뚜렷한
+l8|20|purchase|[동] 구매하다, 구입하다^[명] 구매, 구입
+l8|21|district|[명] 지역, 구역
+l8|22|range|[명] 범위^[동] 범위가 ~이다
+l8|23|division|[명] 1. 부서 2. 나눗셈
+l8|24|rank|[명] 계급, 지위^[동] 위치를 정하다, 평가하다
+l8|25|feature|[명] 1. 특징, 특색 2. 얼굴의 생김새
+l8|26|spare|[동] 1. 할애하다 2. 아껴서 안쓰다^[형] 여분의, 한가한
+l8|27|firework|[명] 불꽃놀이
+l8|28|sparkle|[동] 번쩍이다, 불꽃을 튀기다^[명] 번쩍임, 불꽃
+l8|29|fluent|[형] 유창한
+l8|30|specialize|[동] 전공하다, 전문화하다
+l8|31|fortnight|[명] 2주일간
+l8|32|spicy|[형] 매운
+l8|33|impatient|[형] 참을성 없는, 성급한
+l8|34|tutor|[명] 가정교사
+l8|35|impression|[명] 인상, 감동
+l8|36|unable|[형] ~할 수 없는
+l8|37|incredible|[형] 놀라운, 믿을수없는
+l8|38|unbelievable|[형] 믿을 수 없는, 굉장한
+l8|39|indeed|[부] 실로, 참으로
+l8|40|underwater|[형] 물 속의, 수중의^[부] 물 속에서
+l8|01|attach|[동] 첨부하다, 붙이다
+l8|02|meantime|[명] 그 동안
+l8|03|attract|[동] (주의, 흥미) 끌다, 매혹하다
+l8|04|mechanic|[명] 기계공, 정비사
+l8|05|aware|[형] 알고 있는, 인식하고 있는
+l8|06|memorable|[형] 기억할 만한, 잊지 못할
+l8|07|belief|[명] 믿음
+l8|08|minor|[형] 1. 중요치 않은 2. 보다 작은
+l8|09|continuous|[형] 끊임없는, 연속적인
+l8|10|paste|[명] 풀^[동] 풀로 붙이다
+l8|11|cope|[동] 대처하다, 극복하다
+l8|12|peer|[명] 동료, 또래^[동] 자세히 보다
+l8|13|correction|[명] 수정, 정정
+l8|14|performance|[명] 1. 연기, 공연 2. 수행, 실행
+l8|15|cosmetics|[명] 화장품
+l8|16|permanently|[부] 역구적으로, 영원히
+l8|17|dizzy|[형] 어지러운, 현기증이 나는
+l8|18|rapid|[형] 빠른
+l8|19|donate|[동] 기부하다, 기증하다
+l8|20|reaction|[명] 반응
+l8|21|doubtful|[형] 의심스러운
+l8|22|realize|[동] 1. 깨닫다 2. (꿈) 실현하다
+l8|23|dramatic|[형] 극적인
+l8|24|reasonable|[형] 합리적인, 적당한
+l8|25|found|[동] 설립하다
+l8|26|spoil|[동] 1. 망쳐놓다 2. 버릇없게 기르다
+l8|27|fraction|[명] 1. 분수 2. 아주 조금
+l8|28|sprinkle|[동] 뿌리다, 끼얹다
+l8|29|frustrating|[형] 좌절감을 주는, 실망시키는
+l8|30|squash|[동] 1. 눌러 찌그러뜨리다 2. 밀어 넣다
+l8|31|fulfill|[동] 1. 이행하다 2. 충족시키다
+l8|32|squeeze|[동] 1. 짜내다 2. 밀어 넣다
+l8|33|indicate|[동] 가리키다, 나타내다
+l8|34|unemployed|[형] 실직한, 직업이 없는
+l8|35|individually|[부 ] 개별적으로
+l8|36|unexpectedly|[부] 예기치 않게, 뜻밖에
+l8|37|infant|[명] 갓난 아기, 유아
+l8|38|unlikely|[형] ~할 것 같지 않은
+l8|39|initial|[형 ] 처음의^[명] 머리글자
+l8|40|unpleasant|[형] 불쾌한
+l8|01|bet|[동] 1. 돈을 걸다 2. 확신하다^[명] 내기
+l8|02|mission|[명] 임무, 사명
+l8|03|billion|[명] 10억
+l8|04|misunderstand|[동] 오해하다
+l8|05|biology|[명] 생물학
+l8|06|mixture|[명] 혼합, 혼합물
+l8|07|blank|[형] 1. 공백의 2. 멍한^[명] 공백, 공란
+l8|08|moisture|[명] 수분, 습기
+l8|09|costume|[명] 의상, 복장
+l8|10|personality|[명] 성격
+l8|11|courage|[명] 용기
+l8|12|photocopy|[명] 복사^[동] 복사하다
+l8|13|crack|[동] 금이가다, 딱 소리를 내다^[명] 날카로운 소리, 금
+l8|14|pleased|[형] 기쁜, 만족한
+l8|15|craft|[명] 공예, 솜씨
+l8|16|policy|[명] 정책
+l8|17|editor|[명] 편집자
+l8|18|recall|[동] 생각해내다, 기억하다
+l8|19|education|[명] 교육
+l8|20|recent|[형] 최근의
+l8|21|elastic|[형] 탄력 있는, 신축성 있는
+l8|22|reform|[동] 개혁하다^[명] 개혁
+l8|23|electrician|[명] 전기기술자
+l8|24|refreshing|[형] 상쾌한
+l8|25|further|[부] 더 멀리^[형] 그 이상의
+l8|26|statement|[명] 성명, 진술
+l8|27|gear|[명] 1. 기어 2. 도구
+l8|28|stock|[명] 1. 주식 2. 재고
+l8|29|genius|[명] 천재, 천재성
+l8|30|subtract|[명] 빼다, 제하다
+l8|31|geography|[명] 지리학
+l8|32|supporter|[명] 지지자, 서포터
+l8|33|injection|[명] 주사
+l8|34|urgent|[형] 긴급한
+l8|35|injury|[명] 부상
+l8|36|vistory|[명] 승리
+l8|37|insert|[동] 끼워 넣다, 삽입하다
+l8|38|vital|[형] 생명에 꼭 필요한, 대단히 중요한
+l8|39|instantly|[부]  즉시, 당장
+l8|40|volcano|[명] 화산
+l8|01|bored|[형] 지루한
+l8|02|mostly|[부] 대부분
+l8|03|burst|[동] 폭발하다, 터지다
+l8|04|movement|[명] 움직임, 운동
+l8|05|cancer|[명] 암
+l8|06|naturally|[부] 1. 자연스럽게 2. 선천적으로
+l8|07|careless|[형] 1. 부주의한 2. 무관심한
+l8|08|necessarily|[부] 반드시 (~은 아닌)
+l8|09|creative|[형] 독창적인, 창조적인
+l8|10|polish|[동] 닦다, 윤을 내다
+l8|11|crush|[동] 눌러 부수다, 찌부러뜨리다
+l8|12|poorly|[부] 1. 불충분하게 2. 초라하게
+l8|13|cultural|[형] 문화의
+l8|14|portable|[형] 휴대용의, 가지고 다닐 수 있는
+l8|15|deadline|[명] 마감시간, 기한
+l8|16|possibly|[부] 1. 아마 2. 될 수 있는 한
+l8|17|electronic|[형] 전자의
+l8|18|regularly|[부] 정기적으로, 규칙적으로
+l8|19|emperor|[명] 황제
+l8|20|rely|[동] 의지하다, 의존하다
+l8|21|employment|[명] 고용, 취업, 일자리
+l8|22|remote|[형] 멀리 떨어진, 외딴
+l8|23|enable|[동] ~할 수 있게 하다
+l8|24|request|[동] 요청하다, 바라다^[명 ] 요청, 부탁
+l8|25|globe|[명] 1. 지구, 세계 2. 지구본
+l8|26|surname|[명] (이름) 성(姓)
+l8|27|gloomy|[형] 우울한
+l8|28|survivor|[명] 생존자
+l8|29|gorgeous|[형] 매우 멋진, 화려한
+l8|30|tale|[명] 이야기, 설화
+l8|31|graceful|[형] 우아한
+l8|32|target|[명] 과녁, 목표
+l8|33|instruct|[동] 가르치다, 지시하다
+l8|34|volume|[명] 1. 부피, 용량 2. 음량
+l8|35|intention|[명] 의향, 의도
+l8|36|volunteer|[명] 지원자, 자원봉사자^[동] 자발적으로 하다, 지원하다
+l8|37|intermediate|[형] 중간의
+l8|38|weakness|[명] 약함, 약점
+l8|39|internal|[형] 안의, 내부의
+l8|40|wildlife|[명] 야생생물
+l8|01|cereal|[명] 곡류, 시리얼
+l8|02|necklace|[명] 목걸이
+l8|03|certain|[형] 1. 확실한, 확신하는 2. 어떤
+l8|04|observe|[동] 1. 관찰하다 2. (법) 준수하다
+l8|05|cheat|[동] 속이다, 부정행위를 하다
+l8|06|occasion|[명] (특정한) 경우, 행사
+l8|07|cheerful|[형] 기분이 좋은, 쾌활한
+l8|08|occupy|[동] (시간, 공간) 차지하다
+l8|09|deadly|[형] 치명적인
+l8|10|postage|[명] 우편요금
+l8|11|defense|[명] 수비, 방어
+l8|12|postpone|[동] 연기하다, 미루다
+l8|13|definition|[명] 정의
+l8|14|pottery|[명] 도자기, 도예
+l8|15|delivery|[명] 배달
+l8|16|practical|[형] 실제적인, 실용적인
+l8|17|engaged|[형] 약혼한
+l8|18|resident|[명] 거주자, 체류자
+l8|19|enjoyment|[명] 기쁨, 즐거움
+l8|20|resign|[동] 사임하다
+l8|21|entry|[명] 들어감, 입장, 참가
+l8|22|risky|[형] 위험한
+l8|23|estimate|[동] 어림잡다, 견적을 내다^[명] 견적
+l8|24|salesclerk|[명] 점원, 판매원
+l8|25|gradual|[형] 점진적인, 차츰 ~하는
+l8|26|technical|[형] 1. 기술적인 2. 전문의
+l8|27|grammatically|[부] 문법적으로
+l8|28|technician|[명] 기술자, 전문가
+l8|29|guardian|[명] 보호자, 수호자
+l8|30|though|[접] ~에도 불구하고, ~이지만
+l8|31|guidance|[명] 안내, 지도
+l8|32|thrilled|[형] 감격한, 흥분된
+l8|33|invention|[명] 초대, 초대장
+l8|34|willing|[형] 기꺼이 ~하는
+l8|35|investigate|[동] 수사하다, 조사하다
+l8|36|within|[전] ~의 안에, ~이내에
+l8|37|invitation|[명] 발명, 발명품
+l8|38|worst|[형] 가장 나쁜, 최악의
+l8|39|jewelry|[명] 보석류
+l8|40|wrestle|[동] 맞붙어 싸우다, 레슬링하다

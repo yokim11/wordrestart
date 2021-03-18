@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sufamily.wordrestart.wordrestart" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TopActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FlashcardTimerTaskActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_fullscreen"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <!-- <activity -->
+        <!-- android:name=".MainActivity" -->
+        <!-- android:label="@string/title_activity_main" > -->
+        <!-- </activity> -->
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sufamily.wordrestart.wordrestart.MainActivity" />
+        </activity>
+        <activity
+            android:name=".ConceptActivity"
+            android:label="@string/title_activity_concept" >
+        </activity>
+        <activity
+            android:name=".DBCreateActivity"
+            android:label="@string/title_activity_dbcreate"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sufamily.wordrestart.wordrestart.MainActivity" />
+        </activity>
+        <!-- <activity -->
+        <!-- android:name=".TopActivity" -->
+        <!-- android:label="@string/title_activity_top" > -->
+        <!-- android:parentActivityName=".MainActivity" > -->
+        <!-- <meta-data -->
+        <!-- android:name="android.support.PARENT_ACTIVITY" -->
+        <!-- android:value="com.sufamily.wordrestart.wordrestart.MainActivity" /> -->
+        <!-- </activity> -->
+        <activity
+            android:name=".WordTestActivity"
+            android:label="@string/title_activity_word_test" >
+        </activity>
+        <activity
+            android:name=".WordSkipActivity"
+            android:label="@string/title_activity_word_skip" >
+        </activity>
+        <activity
+            android:name=".TTSActivity"
+            android:label="@string/title_activity_tts" >
+        </activity>
+        <activity
+            android:name=".DBCreateWiseSayingActivity"
+            android:label="@string/title_activity_dbcreate_wise_saying" >
+        </activity>
+    </application>
+
+</manifest>

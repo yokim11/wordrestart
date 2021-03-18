@@ -1,0 +1,334 @@
+    l2|16|nature|[명] 자연
+    l2|17|situation|[명] 상황, 처지
+    l2|18|receipt|[명] 영수증
+    l2|19|tool|[명] 도구, 연장
+    l2|20|garden|[명] 정원
+    l2|21|pride|[명] 자존심
+    l2|22|station|[명] 역
+    l2|23|something|[명] 무언가
+    l2|24|year|[명] 해, 년, 연
+    l2|25|story|[명] 이야기, [건물의] 층
+    l2|26|grade|[명] 성적, 등급
+    l2|27|emotion|[명] 감정
+    l2|28|flesh|[명] 살, 고기
+    l2|29|pity|[명] 연민, 동정심
+    l2|30|country|[명] 나라, 시골
+    l2|01|amount|[명] 양
+    l2|02|middle|[명] 가운데
+    l2|03|artist|[명] 예술가, 미술가
+    l2|04|million|[명] 백만(1000000)
+    l2|05|bench|[명] 벤치
+    l2|06|neighbor|[명] 이웃
+    l2|07|blind|[형] 눈이 먼
+    l2|08|notice|[동] 알아채다, 주목하다
+    l2|09|bookstore|[명] 서점
+    l2|10|order|[동] 명령하다, 주문하다
+    l2|11|classmate|[명] 반 친구
+    l2|12|practice|[동] 연습하다^[명] 연습
+    l2|13|clever|[형] 영리한
+    l2|14|dangerous|[형] 위험한
+    l2|15|receive|[동] 받다
+    l2|16|dig|[동] (땅) 파다
+    l2|17|rise|[동] (자리에서) 일어나다
+    l2|18|favorite|[형] 가장 좋아하는
+    l2|19|sailor|[명] 선원
+    l2|20|friendly|[형] 친절한, 친한
+    l2|21|save|[동] 구하다, 저축하다
+    l2|22|hair|[명] 머리카락
+    l2|23|skirt|[명] 치마
+    l2|24|heaven|[명] 천국, 하늘
+    l2|25|space|[명] 공간, 우주
+    l2|26|impressive|[형] 인상적인
+    l2|27|tail|[명] 꼬리
+    l2|28|key|[명] 열쇠
+    l2|29|terrible|[형] 끔찍한
+    l2|30|lead|[동] 이끌다
+    l2|31|tie|[명] 넥타이^[동] 묶다
+    l2|32|loud|[형] 소리가 큰
+    l2|33|machine|[명] 기계
+    l2|34|tourist|[명] 관광객
+    l2|35|marry|[동] ~와 결혼하다
+    l2|36|traffic|[명] 교통(량)
+    l2|37|meat|[명] 고기
+    l2|38|tutle|[명] 거북이
+    l2|39|wall|[명] 벽
+    l2|40|wind|[명] 바람
+    l2|01|ancient|[형] 고대의
+    l2|02|gentlemen|[명] 신사
+    l2|03|art|[명] 예술, 미술
+    l2|04|habit|[명] 버릇, 습관
+    l2|05|battle|[명] 전투
+    l2|06|heavy|[형] 무거운
+    l2|07|burn|[동] (불에) 타다, 태우다
+    l2|08|justice|[명] 정의
+    l2|09|camp|[동] 캠핑하다^[명] 캠프
+    l2|10|lie|[동] 거짓말하다, 눕다
+    l2|11|lucky|[형] 행운의, 운이 좋은
+    l2|12|case|[명] 상자, 경우
+    l2|13|mercy|[명] 자비
+    l2|14|center|[명] 한가운데, 중심
+    l2|15|monkey|[명] 원숭이
+    l2|16|concert|[명] 콘서트
+    l2|17|note|[명] 메모
+    l2|18|contest|[명] 시합
+    l2|19|pick|[동] 줍다, 따다, 고르다
+    l2|20|discuss|[동] 토론하다, 의논하다
+    l2|21|point|[명] 요점^[동] 가리키다
+    l2|22|draw|[동] (연필로) 그림 그리다, 잡아 끌다
+    l2|23|dry|[형] 건조한^[동] 건조시키다
+    l2|24|popular|[형] 인기 있는
+    l2|25|promise|[동] 약속하다^[명] 약속
+    l2|26|experience|[명] 경험^[동] 경험하다
+    l2|27|rice|[명] 쌀
+    l2|28|explain|[동] 설명하다
+    l2|29|secret|[명] 비밀
+    l2|30|fill|[동] 채우다, (신청서) 작성하다
+    l2|31|shape|[명] 모양, 형상
+    l2|32|flight|[명] 비행, 비행기
+    l2|33|strike|[동] 세게 치다
+    l2|34|forest|[명] 숲
+    l2|35|supper|[명] 가벼운 저녁식사
+    l2|36|fountain|[명] 분수
+    l2|37|war|[명] 전쟁
+    l2|38|fruit|[명] 과일
+    l2|39|weak|[형] 약한, 허약한
+    l2|40|garbage|[명] 쓰레기
+    l2|01|borrow|[동] 빌리다
+    l2|02|normal|[형] 정상의
+    l2|03|bridge|[명] (건축) 다리
+    l2|04|pair|[ 명] 한 쌍
+    l2|05|celerate|[동] 축하하다
+    l2|06|plate|[명] 접시
+    l2|07|cent|[명] (미국 화폐) 센트
+    l2|08|pond|[명] 연못
+    l2|09|China|[명] 중국
+    l2|10|precious|[형] 소중한
+    l2|11|cross|[동] 길을 건너다^[명] 십자가
+    l2|12|prize|[명] 상
+    l2|13|probably|[부] 아마도
+    l2|14|diary|[명] 일기
+    l2|15|race|[명] 경주
+    l2|16|drop|[동] 떨어뜨리다
+    l2|17|rude|[형] 무례한
+    l2|18|expect|[동] 예상하다, 기대하다
+    l2|19|scholar|[명] 학자
+    l2|20|gesture|[명] 몸짓
+    l2|21|size|[명] 크기
+    l2|22|guest|[명] 손님
+    l2|23|smile|[명] 미소^[동] 미소 짓다
+    l2|24|guitar|[명] (악기) 기타
+    l2|25|hide|[동] 숨기다, 숨다
+    l2|26|statue|[명] 동상
+    l2|27|international|[형] 국제적인
+    l2|28|straight|[형] 일직선의
+    l2|29|join|[동] 함께 하다
+    l2|30|stupid|[형] 멍청한
+    l2|31|mad|[형] 화가 난, 미친
+    l2|32|subject|[명] 과목, 주제
+    l2|33|master|[명] 대가, 명인^[동] 통달하다
+    l2|34|technology|[명] 과학기술
+    l2|35|tiny|[형] 아주 작은
+    l2|36|match|[명] 성냥^[동] 잘 어울리다
+    l2|37|vegetable|[명] 야채, 채소
+    l2|38|wish|[동] 소망하다^[명] 소망
+    l2|39|matter|[동] 중요하다^[명] 일
+    l2|40|mayor|[명] 시장
+    l2|01|captain|[명] 우두머리
+    l2|02|neck|[명] 목
+    l2|03|chicken|[명] 닭, 닭고기
+    l2|04|officer|[명] 장교
+    l2|05|clear|[형] 선명한, 명료한
+    l2|06|opera|[명] 오페라
+    l2|07|consist|[동] ~으로 이루어져 있다
+    l2|08|peace|[명] 평화
+    l2|09|control|[동] 통제하다
+    l2|10|principle|[명] 원리, 원칙
+    l2|11|desert|[명] 사막
+    l2|12|proud|[형] 자랑스러워 하는
+    l2|13|dirty|[형] 더러운
+    l2|14|rope|[명] 밧줄
+    l2|15|empty|[형] 비어있는
+    l2|16|rule|[명] 규칙
+    l2|17|engine|[명] 엔진
+    l2|18|sacrifice|[명] 희생^[동] 희생하다
+    l2|19|especially|[부] 특히
+    l2|20|fantastic|[형] 환상적인
+    l2|21|salary|[명] 월급
+    l2|22|fold|[동] 접다
+    l2|23|season|[명] 계절
+    l2|24|frog|[명] 개구리
+    l2|25|simple|[형] 간단한
+    l2|26|gate|[명] 대문
+    l2|27|smoke|[동] 담배 피다^[명] 연기
+    l2|28|ghost|[명] 유령
+    l2|29|health|[명] 건강
+    l2|30|sour|[형] 시큼한
+    l2|31|modern|[형] 현대의
+    l2|32|state|[명] 주, 상태
+    l2|33|monument|[명] 기념비
+    l2|34|suit|[명] 정장
+    l2|35|mouse|[명] 생쥐
+    l2|36|sunshine|[명] 햇빛
+    l2|37|musician|[명] 음악가
+    l2|38|symbol|[명] 상징
+    l2|39|turkey|[명] 칠면조
+    l2|40|wake|[동] 잠이 깨다
+    l2|01|adult|[명] 어른
+    l2|02|method|[명] 방법
+    l2|03|advice|[명] 충고
+    l2|04|natural|[형] 자연의, 자연스러운
+    l2|05|ambitious|[형] 야심 있는
+    l2|06|pollute|[동] 오염시키다
+    l2|07|appreciate|[동] 감사하다, 감상하다
+    l2|08|possible|[형] 가능한
+    l2|09|bark|[동] 짖다
+    l2|10|program|[명] 프로그램
+    l2|11|belong|[동] ~에 속하다
+    l2|12|protect|[동] 보호하다
+    l2|13|charater|[명] 성격, 인격
+    l2|14|rabbit|[명] 토끼
+    l2|15|deep|[형] 깊은
+    l2|16|raise|[동] 올리다
+    l2|17|diligent|[형] 부지런한
+    l2|18|remove|[동] 제거하다
+    l2|19|discover|[동] 발견하다
+    l2|20|shelf|[명] 선반
+    l2|21|endure|[동] 참다, 견디다
+    l2|22|stick|[명] 막대기
+    l2|23|engineer|[명] 기술자
+    l2|24|stranger|[명] 낯선 사람
+    l2|25|forgive|[동] 용서하다
+    l2|26|talent|[명] 재능
+    l2|27|generally|[부] 일반적으로
+    l2|28|tear|[명] 눈물^[동] 찢다
+    l2|29|glory|[명] 영광
+    l2|30|law|[명] 법
+    l2|31|throat|[명] 목구멍
+    l2|32|leaf|[명] 나뭇잎
+    l2|33|umbrella|[명] 우산
+    l2|34|lend|[동] 빌려주다
+    l2|35|universe|[명] 우주
+    l2|36|lift|[동] 들어올리다
+    l2|37|unless|[접] 만약 ~이 아니라면
+    l2|38|magazine|[명] 잡지
+    l2|39|value|[명] 가치
+    l2|40|wander|[동] 떠돌다
+    l2|01|appear|[동] 나타나다, 등장하다
+    l2|02|message|[명] 메시지
+    l2|03|area|[명] 지역
+    l2|04|metal|[명] 금속
+    l2|05|attractive|[형] 매력적인
+    l2|06|model|[명] 모형, 모델
+    l2|07|candle|[명] 양초
+    l2|08|nervous|[형] 긴장한
+    l2|09|challenge|[명] 도전^[동] 도전하다
+    l2|10|position|[명] 위치, 지위
+    l2|11|praise|[동] 칭찬하다^[명] 칭찬
+    l2|12|citizen|[명] 시민
+    l2|13|communicate|[동] 의사소통하다
+    l2|14|prepare|[동] 준비하다
+    l2|15|cost|[동] 비용이 ~이다^[명] 비용
+    l2|16|prince|[명] 왕자
+    l2|17|queen|[명] 여왕
+    l2|18|create|[동] 창조하다
+    l2|19|remain|[동] 여전히 ~이다
+    l2|20|custom|[명] 관습
+    l2|21|repeat|[동] 반복하다
+    l2|22|event|[명] 행사
+    l2|23|rest|[명] 휴식^[동] 휴식하다
+    l2|24|favor|[명] 부탁
+    l2|25|form|[명] (서류) 양식, 형태
+    l2|26|rush|[동] 서두르다, 돌진하다
+    l2|27|funny|[형] 웃기는, 재미있는
+    l2|28|servant|[명] 하인
+    l2|29|gift|[명] 선물
+    l2|30|suppose|[동] 가정하다
+    l2|31|hang|[동] 걸다, 매달다
+    l2|32|survive|[동] 살아남다
+    l2|33|harmony|[명] 조화
+    l2|34|theater|[명] 극장
+    l2|35|host|[명] 주인^[동] 주최하다
+    l2|36|thought|[명] 생각
+    l2|37|unite|[동] 합치다, 결합하다
+    l2|38|medicine|[명] 약
+    l2|39|university|[명] 대학교
+    l2|40|memory|[명] 기억, 기억력
+    l2|01|airplane|[명] 비행기
+    l2|02|nearly|[부] 거의
+    l2|03|athlete|[명] 운동 선수
+    l2|04|pain|[명] 아픔, 고통
+    l2|05|blood|[명] 피, 혈액
+    l2|06|palace|[명] 궁전
+    l2|07|blow|[동] (바람, 숨) 불다
+    l2|08|pilot|[명] (항공기) 조종사
+    l2|09|bottle|[명] 병
+    l2|10|power|[명] 힘, 권력
+    l2|11|bottom|[명] 밑바닥
+    l2|12|price|[명] 가격
+    l2|13|breath|[명] 숨
+    l2|14|quarrel|[명] 말다툼^[동] 말다툼하다
+    l2|15|condition|[명] 상태, 조건
+    l2|16|devil|[명] 악마
+    l2|17|report|[명] 보고, 보고서^[동] 보고하다
+    l2|18|elect|[동] 선거하다
+    l2|19|fare|[명] 교통 요금
+    l2|20|serve|[동] 대접하다, 봉사하다
+    l2|21|giant|[명] 거인
+    l2|22|sightseeing|[명] 관광
+    l2|23|hall|[명] 복도
+    l2|24|smell|[동] 냄새가 ~하다, 냄새 맡다
+    l2|25|harm|[동] 해치다^[명] 해, 해악
+    l2|26|source|[명] 출처, 원천
+    l2|27|stamp|[명] 우표
+    l2|28|hometown|[명] 고향
+    l2|29|step|[명] 발걸음
+    l2|30|image|[동] 상상하다
+    l2|31|taste|[동] 맛보다, 맛이 ~하다
+    l2|32|lazy|[형] 게으른
+    l2|33|valley|[명] 계곡
+    l2|34|limit|[명] 한계^[동] 제한하다
+    l2|35|wave|[명] 파도^[동] 손을 흔들다
+    l2|36|lovely|[형] 사랑스러운
+    l2|37|wet|[형] 젖은
+    l2|38|medical|[형] 의학의,
+    l2|39|whole|[형] 전체의
+    l2|40|wing|[명] 날개
+    l2|01|also|[부] 역시, 또한
+    l2|02|often|[부] 자주
+    l2|03|before|[접] ~하기 전에
+    l2|04|palm|[명] 손바닥
+    l2|05|begin|[동] 시작하다
+    l2|06|pay|[동] 지불하다
+    l2|07|cheap|[형] 값이 싼
+    l2|08|postcard|[명] 엽서
+    l2|09|chopsticks|[명] 젓가락
+    l2|10|pot|[명] 냄비, 항아리
+    l2|11|crosswalk|[명] 횡단보도
+    l2|12|princess|[명] 공주
+    l2|13|dentist|[명] 치과 의사
+    l2|14|refrigerator|[명] 냉장고
+    l2|15|dessert|[명] 후식
+    l2|16|rubber|[명] 고무
+    l2|17|drawer|[명] 서랍
+    l2|18|satisfied|[형] 만족한
+    l2|19|fall|[동] 넘어지다, 떨어지다
+    l2|20|scissors|[명] 가위
+    l2|21|give|[동] 주다
+    l2|22|soon|[부] 곧
+    l2|23|hammer|[명] 망치
+    l2|24|stay|[동] 머무르다
+    l2|25|help|[동] 돕다^[명] 도움
+    l2|26|storm|[명] 폭풍
+    l2|27|tired|[형] 피곤한
+    l2|28|hit|[동] 치다, 부딪히다
+    l2|29|together|[부] 다 함께
+    l2|30|hop|[동] 깡충 뛰다
+    l2|31|tongue|[명] 혀
+    l2|32|just|[부] 방금, 그냥^[동] 발로 차다
+    l2|33|visit|[동] 방문하다^[명] 방문
+    l2|34|know|[동] 알다
+    l2|35|wait|[동] 기다리다
+    l2|36|market|[명] 시장
+    l2|37|wash|[동] 씻다
+    l2|38|nut|[명] (호두, 땅콩) 나무열매, 견과류
+    l2|39|zoo|[명] 동물원

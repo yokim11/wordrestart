@@ -1,0 +1,295 @@
+l5|61|flight|[명] 비행
+l5|62|gentleman|[명] 신사
+l5|63|flour|[명] 밀가루
+l5|64|photograph|[명] 사진
+l5|65|blood|[명] 피
+l5|66|noon|[명] 정오, 낮12시
+l5|67|yesterday|[명] 어제
+l5|68|earth|[명] 지구, 땅
+l5|69|palace|[명] 궁전
+l5|70|problem|[명] 문제
+l5|71|journey|[명] 여행
+l5|72|flavor|[명] 향, 맛
+l5|73|traffic|[명] 교통
+l5|74|relationship|[명] 관계
+l5|75|vacation|[명] 휴가, 방학
+l5|01|ambassador|[명] (외교) 대사
+l5|02|mankind|[명] 인류
+l5|03|analyze|[동] 분석하다
+l5|04|nuclear|[형] 핵의
+l5|05|appetite|[명] 식욕
+l5|06|occur|[동] 1. 생각나다 
+l5|07|attempt|[동] 시도하다^[명] 시도 
+l5|08|past|[형] 과거의^[명] 과거 
+l5|09|behave|[동] 행동하다
+l5|10|patient|[형] 인내심 있는^[명] 환자
+l5|11|combine|[동] 결합하다
+l5|12|pause|[동] 중단하다^[명] 중지
+l5|13|communication|[명] 의사소통
+l5|14|realistic|[형] 1. 진짜 같은 2. 현실적인
+l5|15|compete|[동] 경쟁하다
+l5|16|resist|[동] 저항하다
+l5|17|conclude|[동] 결론짓다
+l5|18|resource|[명] 자원
+l5|19|cruel|[형] 잔인한
+l5|20|shallow|[형] 얕은
+l5|21|design|[동] 디자인하다^[명] 디자인
+l5|22|sincere|[형] 진실한
+l5|23|diet|[명] 1. 음식, 식단
+l5|24|single|[형] 단 하나의
+l5|25|fresh|[형] 신선한
+l5|26|site|[명] 장소
+l5|27|halt|[동] 멈추다
+l5|28|solution|[명] 해결책
+l5|29|howl|[동] 긴소리로 짖다
+l5|30|specific|[형] 구체적인, 특정한
+l5|31|identify|[동] 1. (신원을) 확인하다
+l5|32|square|[명] 정사각형
+l5|33|individual|[형] 개인의
+l5|34|steel|[명] 강철
+l5|35|intensive|[형] 1. 집중적인 2. 격렬한
+l5|36|stress|[명] 스트레스^[동] 강조하다
+l5|37|leak|[동] 1. 새다 2. 누설하다
+l5|38|underline|[동] 1. 밑줄 치다 2. 강조하다
+l5|39|mammal|[명] 포유동물
+l5|40|upset|[동] 뒤엎다^[형] 1. 뒤집힌 2. 화난
+l5|01|actually|[부] 실제로
+l5|02|marble|[명] 대리석
+l5|03|astonish|[동] 놀라게 하다
+l5|04|otherwise|[접] 그렇지 않으면
+l5|05|atmosphere|[명] 1. 분위기 2. 대기
+l5|06|owe|[동] 빚지다
+l5|07|bless|[동] 축복하다
+l5|08|participate|[동] 참여하다
+l5|09|boast|[동] 자랑하다
+l5|10|polite|[형] 예의 바른
+l5|11|cease|[동] 그치다, 멈추다
+l5|12|primary|[형] 제 1순위의
+l5|13|charming|[형] 매력적인
+l5|14|proper|[형] 적절한, 적당한
+l5|15|detail|[명] 세부사항
+l5|16|recently|[부] 최근에
+l5|17|dialogue|[명] 대화
+l5|18|reflect|[동] 반사하다, 반영하다
+l5|19|direction|[명] 방향
+l5|20|republic|[명] 공화국
+l5|21|disappoint|[동] 실망시키다
+l5|22|rude|[형] 무례한
+l5|23|eager|[형] 열망하는
+l5|24|ruin|[동] 파괴하다, 파멸시키다
+l5|25|election|[명] 선거
+l5|26|saying|[명] 격언, 속담
+l5|27|entire|[형] 전체의
+l5|28|secretary|[명] 비서
+l5|29|hardly|[부] 거의 ~아닌
+l5|30|seldom|[부] 좀처럼 ~않는
+l5|31|immediately|[부] 곧, 즉시
+l5|32|sigh|[동] 한숨 쉬다^[명] 한숨 
+l5|33|impact|[명] 영향
+l5|34|suitcase|[명] 여행가방
+l5|35|include|[동] 포함하다
+l5|36|surround|[동] 둘러싸다
+l5|37|lantern|[명] 랜턴, 등
+l5|38|unit|[명] 단위
+l5|39|log|[명] 통나무
+l5|40|whether|[접] ~인지 아닌지
+l5|01|accurate|[형] 정확한
+l5|02|Mars|[명] 화성
+l5|03|balance|[명] 균형
+l5|04|navy|[명] 해군
+l5|05|clue|[명] 단서
+l5|06|permanent|[형] 영원한, 영구적인
+l5|07|compose|[동] 작곡하다, 작문하다
+l5|08|permission|[명] 허락
+l5|09|consume|[동] 소비하다
+l5|10|pitch|[동] 던지다
+l5|11|correct|[형] 옳은, 올바른
+l5|12|predict|[동] 예언하다, 예측하다
+l5|13|crime|[명] 범죄
+l5|14|provide|[동] 제공하다
+l5|15|decade|[명] 10년
+l5|16|raw|[형] 날것의
+l5|17|exclaim|[동] 외치다
+l5|18|rear|[명] 뒤쪽
+l5|19|flow|[동] 흐르다^[명] 흐름
+l5|20|response|[명] 반응
+l5|21|frankly|[부] 솔직히
+l5|22|score|[명] 득점
+l5|23|generation|[명] 세대
+l5|24|sculpture|[명] 조각(품)
+l5|25|greeting|[명] 인사
+l5|26|shower|[명] 1. 소나기 2. 샤워
+l5|27|hastily|[부] 서둘러서
+l5|28|stair|[명] 계단
+l5|29|hero|[명] 영웅
+l5|30|steady|[형] 꾸준한
+l5|31|horizon|[명] 수평선
+l5|32|thermometer|[명] 온도계
+l5|33|hunger|[명] 굶주림
+l5|34|thumb|[명] 엄지손가락
+l5|35|illuminate|[동] 밝게 하다
+l5|36|torch|[명] 횃불
+l5|37|independent|[형] 독립한
+l5|38|trumpet|[명] 트럼펫
+l5|39|laundry|[명] 세탁물, 세탁소
+l5|40|twin|[명] 쌍둥이
+l5|01|ache|[동] 아프다
+l5|02|kindergarten|[명] 유치원
+l5|03|calm|[형] 1. 침착한 2. 고요한
+l5|04|migrant|[명] 이민자
+l5|05|classic|[명] 고전 작품^[형] 고전의
+l5|06|mild|[형] 1. (기후) 온화한 2. 상냥한
+l5|07|clean|[형] 깨끗한^[동] 청소하다
+l5|08|miniature|[명] 소형 모형^[형] 소형의
+l5|09|confused|[형] 혼란스러운
+l5|10|noble|[형] 고귀한, 귀족의
+l5|11|crazy|[형] 1. 열광하는 2. 미친
+l5|12|occupation|[명] 직업
+l5|13|dart|[명] 다트, 던지는 화살
+l5|14|pal|[명] 친구
+l5|15|deserve|[동] ~할 만하다
+l5|16|pop|[동] 팡 터지다 확 튀다
+l5|17|devise|[동] 고안하다, 궁리하다
+l5|18|powder|[명] 가루, 분말
+l5|19|errand|[명] 심부름
+l5|20|priest|[명] 성직자
+l5|21|examination|[명] 1. 시험 2. 진찰, 검진
+l5|22|puzzle|[동] 당황하게 하다^[명] 수수께끼
+l5|23|executive|[명] 임원^[형] 임원급의
+l5|24|related|[형] 관련이 있는
+l5|25|folk|[명] 사람들^[명] 민간의, 민속의
+l5|26|scratch|[동] 긁다
+l5|27|gallery|[명] 미술관, 화랑
+l5|28|semester|[명] 학기
+l5|29|gaze|[동] 바라보다
+l5|30|supply|[명] 공급^[동] 공급하다
+l5|31|greedy|[형] 탐욕스러운
+l5|32|tax|[명] 세금
+l5|33|harmful|[형] 해로운
+l5|34|tolerate|[동] 참다
+l5|35|hollow|[형] 속이 빈
+l5|36|tool|[명] 도구
+l5|37|insist|[동] 주장하다
+l5|38|unify|[동] 통일하다
+l5|39|kind|[형] 친절한
+l5|40|Venus|[명] 금성
+l5|01|anxious|[형] 1. 걱정하는 2. 열망하는
+l5|02|jail|[명] 감옥
+l5|03|associate|[동] 1. 관련시키다 2. 교제하다
+l5|04|miracle|[명] 기적
+l5|05|authority|[명] 1. 권한 2. 권위
+l5|06|moral|[형] 도덕의, 도덕적인
+l5|07|brain|[명] 뇌
+l5|08|motion|[명] 동작, 움직임
+l5|09|cherish|[동] 소중히 여기다
+l5|10|naked|[형] 벌거벗은
+l5|11|complex|[형] 복잡한
+l5|12|omit|[동] 생략하다
+l5|13|confirm|[동] 최종 확인하다
+l5|14|plentiful|[형] 많은, 풍부한
+l5|15|consider|[동] 고려하다
+l5|16|punish|[동] 처벌하다
+l5|17|dawn|[명] 새벽
+l5|18|regret|[동] 후회하다
+l5|19|debt|[명] 빚
+l5|20|repair|[동] 수리하다
+l5|21|diameter|[명] 지름
+l5|22|section|[명] 부분, 구역
+l5|23|erase|[동] 지우다
+l5|24|slippery|[형] 미끄러운
+l5|25|famine|[명] 기근
+l5|26|spin|[동] 빙빙 돌다
+l5|27|fee|[명] 1. 요금 2. 수수료
+l5|28|steer|[동] 조종하다
+l5|29|gray|[형] 회색의
+l5|30|tap|[동] 가볍게 두드리다
+l5|31|hand|[명] 1. 손 2. (도움의) 손길
+l5|32|temperature|[명] 온도
+l5|33|humid|[형] 습한
+l5|34|unknown|[형] 알려지지 않은
+l5|35|industrial|[형] 산업의 공업의
+l5|36|utilize|[동] 이용하다
+l5|37|informal|[형] 비공식의, 격식 없는
+l5|38|various|[형] 다양한
+l5|39|instead|[전부] 대신에
+l5|40|yell|[동] 소리 지르다
+l5|01|advantage|[명] 이점, 이득
+l5|02|maintain|[동] 유지하다
+l5|03|anniversary|[명] 기념일
+l5|04|male|[명] 남자^[형] 남자의
+l5|05|application|[명] 지원(서)
+l5|06|mention|[동] ~에 대해 언급하다
+l5|07|attack|[동] 공격하다
+l5|08|penniless|[형] 무일푼의
+l5|09|available|[형] 이용할 수 있는
+l5|10|quality|[명] 품질
+l5|11|blame|[동] 비난하다
+l5|12|rare|[형] 드문
+l5|13|brief|[형] 간단한
+l5|14|refer|[동] 1. 문의해 보게 하다 
+l5|15|bundle|[명] 다발, 묶음^[동] 꾸리다
+l5|16|route|[명] 길
+l5|17|campaign|[명] 운동, 캠페인
+l5|18|search|[동] 찾다, 조사하다^[명] 수색, 조사
+l5|19|continent|[명] 대륙
+l5|20|selfish|[형] 이기적인
+l5|21|convenient|[형] 편리한
+l5|22|silly|[형] (행동이) 바보 같은
+l5|23|crawl|[동] 기어가다
+l5|24|slam|[동] 쾅 닫다
+l5|25|dreadful|[형] 끔찍한, 무시무시한
+l5|26|smog|[명] 스모그
+l5|27|flavor|[명] 맛^[동] 맛을 내다
+l5|28|society|[명] 사회
+l5|29|frontier|[명] 국경
+l5|30|sore|[형] 아픈
+l5|31|handicap|[명] 장애
+l5|32|soul|[명] 영혼
+l5|33|intelligent|[형] 지적인, 총명한
+l5|34|virtue|[명] 미덕
+l5|35|invade|[동] 침략하다
+l5|36|vote|[동] 투표하다
+l5|37|ivy|[명] 담쟁이 덩굴
+l5|38|waste|[동] 낭비하다
+l5|39|machinery|[명] 기계류
+l5|40|weapon|[명] 무기
+l5|01|angel|[명] 천사
+l5|02|merchant|[명] 상인
+l5|03|aspect|[명] 관점, 측면
+l5|04|negative|[형] 부정적인
+l5|05|benefit|[동] 이익을 얻다^[명] 이익, 혜택
+l5|06|organ|[명] 1. 오르간 2. (생물) 장기
+l5|07|bill|[명] 청구서, 계산서
+l5|08|persuade|[동] 설득하다
+l5|09|chew|[동] 씹다
+l5|10|political|[형] 정치적인
+l5|11|civil|[형] 시민의
+l5|12|pupil|[형] 효율적인
+l5|13|demand|[동] 요구하다^[명] 수요
+l5|14|rate|[명] 1. 비율 2. (호텔)숙박비
+l5|15|disgusting|[형] 역겨운
+l5|16|react|[동] 반응하다
+l5|17|efficient|[형] 효율적인
+l5|18|reject|[동] 거절하다
+l5|19|exist|[동] 존재하다
+l5|20|reply|[명] 대답^[동] 대답하다
+l5|21|fist|[명] 주먹
+l5|22|research|[동] 연구하다, 조사하다^[명] 연구, 조사
+l5|23|fuel|[명] 연료
+l5|24|scale|[명] 1. 규모 2. 저울 3. 비늘
+l5|25|gradually|[부] 서서히
+l5|26|slight|[형] 약간의, 사소한
+l5|27|guilty|[형] 유죄의
+l5|28|strict|[형] 엄격한
+l5|29|harbor|[명] 항구
+l5|30|suggest|[동] 제안하다
+l5|31|injure|[동] 다치게 하다
+l5|32|tend|[동] ~하는 경향이 있다
+l5|33|intend|[동] 의도하다
+l5|34|therefore|[부] 그러므로
+l5|35|journalist|[명] 신문기자
+l5|36|threat|[명] 협박, 위협
+l5|37|knowledge|[명] 지식
+l5|38|violent|[형] 폭력적인
+l5|39|liquid|[명] 액체^[형] 액체의
+l5|40|wicked|[형] 사악한

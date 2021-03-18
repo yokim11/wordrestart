@@ -1,0 +1,335 @@
+l3|31|branch|[명] 나뭇가지, 지사, 분점
+l3|32|conversation|[명] 대화
+l3|33|disease|[명] 질병
+l3|34|weather|[명] 날씨
+l3|35|weekend|[명] 주말
+l3|36|parent|[명] 부모
+l3|37|life|[명] 삶, 생명
+l3|38|environment|[명] 환경
+l3|39|trip|[명] 여행
+l3|40|quality|[명] 질, 우수함
+l3|41|clue|[명] 단서
+l3|42|weapon|[명] 무기
+l3|43|delight|[명] 기쁨, 즐거움
+l3|44|envelope|[명] 봉투
+l3|45|gift|[명] 선물, 재능
+l3|01|alive|[형] 살아 있는
+l3|02|manner|[명] 방법
+l3|03|band|[명] 음악밴드
+l3|04|mend|[동] 수리하다
+l3|05|cage|[명] 새장
+l3|06|multiply|[동] 곱하다
+l3|07|department|[명] 부서
+l3|08|nation|[명] 나라
+l3|09|disappear|[동] 사라지다
+l3|10|noisy|[형] 시끄러운
+l3|11|disturb|[동] 방해하다
+l3|12|photo|[명] 사진
+l3|13|enemy|[명] 적
+l3|14|potato|[명] 감자
+l3|15|excellent|[형] 뛰어난
+l3|16|president|[명] 대통령
+l3|17|except|[전] ~을 제외하고는
+l3|18|rapidly|[부] 빨리
+l3|19|feed|[동] (음식) 먹이다
+l3|20|remind|[동] 상기시키다
+l3|21|fellow|[명] 사람, 동료
+l3|22|result|[명] 결과
+l3|23|flash|[명] 번쩍임, 플래시
+l3|24|scenery|[명] 풍경
+l3|25|goods|[명] 제품
+l3|26|simple|[형] 간단한
+l3|27|graduate|[동] 졸업하다
+l3|28|subway|[명] 지하철
+l3|29|gym|[명] 체육관
+l3|30|sunlight|[명] 햇빛
+l3|31|handsome|[형] 잘생긴
+l3|32|textbook|[명] 교과서
+l3|33|honor|[명] 명예
+l3|34|thick|[형] 두꺼운
+l3|35|joy|[명] 기쁨
+l3|36|thirsty|[형] 목마른
+l3|37|knock|[동] 노크하다
+l3|38|twist|[동] 비틀다
+l3|39|mail|[동] (우편) 부치다
+l3|40|wise|[형] 지혜로운, 현명한
+l3|01|abroad|[부] 외국에
+l3|02|foolish|[형] 바보 같은
+l3|03|absent|[형] 결석한
+l3|04|forever|[부] 영원히
+l3|05|army|[명] 육군
+l3|06|fry|[동] 기름에 튀기다
+l3|07|bow|[동] 허리 굽혀 인사하다^[명] 활
+l3|08|grade|[명] 1. 학년 2. 등급
+l3|09|branch|[명] 나뭇가지
+l3|10|guide|[명] 안내자^[동] 안내하다
+l3|11|businessman|[명] 사업가
+l3|12|handkerchief|[명] 손수건
+l3|13|charge|[동] (돈) 청구하다
+l3|14|kid|[명] 아이
+l3|15|coast|[명] 해안
+l3|16|luck|[명] 행운
+l3|17|community|[명] 지역사회, 공동체
+l3|18|main|[형] 주요한
+l3|19|distance|[명] 거리
+l3|20|prison|[명] 감옥
+l3|21|downstairs|[부] 아래층에
+l3|22|professor|[명] 교수
+l3|23|effect|[명] 영향, 효과
+l3|24|rough|[형] 거친
+l3|25|energy|[명] 에너지
+l3|26|safety|[명] 안전
+l3|27|enter|[동] 들어가다
+l3|28|scene|[명] 1. 장면 2. (사건) 현장
+l3|29|Europe|[명] 유럽
+l3|30|smooth|[형] 매끄러운
+l3|31|fault|[명] 잘못
+l3|32|steak|[명] 스테이크
+l3|33|festival|[명] 축제
+l3|34|strawberry|[명] 딸기
+l3|35|flame|[명] 불길
+l3|36|success|[명] 성공
+l3|37|flat|[형] 평평한
+l3|38|wolf|[명] 늑대
+l3|39|fog|[명] 안개
+l3|40|wrist|[명] 손목
+l3|01|actor|[명] 남자 배우
+l3|02|Pacific|[명] 태평양 (the Pacific)^[형] 태평양의
+l3|03|calendar|[명] 달력
+l3|04|pencil|[명] 연필
+l3|05|count|[동] 세다
+l3|06|pleasure|[명] 즐거움
+l3|07|danger|[명] 위험
+l3|08|progress|[명] 진보^[동] 전진하다
+l3|09|earn|[동] (돈) 벌다
+l3|10|push|[동] 밀다
+l3|11|examine|[동] 진찰하다, 검사하다
+l3|12|schedule|[명] 일정
+l3|13|exit|[명] 출구^[동] 나가다
+l3|14|seed|[명] 씨앗
+l3|15|express|[동] 표현하다^[형] 급행의
+l3|16|skin|[명] 피부
+l3|17|firm|[명] 회사^[형] 단호한
+l3|18|stream|[명] 1. 시내 2. 흐름
+l3|19|fool|[명] 바보
+l3|20|student|[명] 학생
+l3|21|grape|[명] 포도
+l3|22|sweet|[형] 달콤한
+l3|23|happiness|[명] 행복
+l3|24|temple|[명] 절
+l3|25|heat|[명] 열기
+l3|26|tooth|[명] 치아
+l3|27|human|[형] 인간의
+l3|28|track|[명] 1. 자국 2. (운동장) 트랙
+l3|29|lemon|[명] 레몬
+l3|30|twinkle|[동] 반짝반짝 빛나다
+l3|31|life|[명] 1. 생명 2. 인생
+l3|32|unfortunately|[부] 운이 나쁘게도
+l3|33|listen|[동] 듣다
+l3|34|unusual|[형] 드문, 별난
+l3|35|manager|[명] 지배인
+l3|36|walk|[동] 걷다^[명] 산책
+l3|37|marathon|[명] 마라톤
+l3|38|wound|[명] 상처^[동] 상처를 입히다
+l3|39|medium|[형] 중간의^[명] 매체
+l3|40|wrap|[동] 감싸다
+l3|01|ability|[명] 능력
+l3|02|native|[형] 1. 출생지의 2. 원주민의
+l3|03|allow|[동] 허락하다
+l3|04|parcel|[명] 소포
+l3|05|animal|[명] 동물
+l3|06|pebble|[명] 자갈
+l3|07|bake|[동] (빵) 굽다
+l3|08|perfect|[형] 완벽한
+l3|09|barn|[명] 외양간, 마굿간
+l3|10|relative|[명] 친척^[형] 상대적인
+l3|11|beach|[명] 해변
+l3|12|room|[명] 방
+l3|13|brave|[형] 용감한
+l3|14|separate|[동] 분리하다
+l3|15|burden|[명] 1. 짐 2. 부담
+l3|16|serious|[형] 1. 심각한 2. 진지한
+l3|17|capital|[명] (국가) 수도
+l3|18|sharp|[형] 1. 날카로운 2. 정각의
+l3|19|classical|[형] 고전적인
+l3|20|ship|[명] 배
+l3|21|cliff|[명] 절벽
+l3|22|shoot|[동] (총, 화살) 쏘다
+l3|23|collect|[동] 모으다
+l3|24|solve|[동] (문제) 풀다
+l3|25|contents|[명] 내용물
+l3|26|state|[동] 진술하다
+l3|27|devote|[동] 헌신하다
+l3|28|study|[동] 공부하다
+l3|29|fire|[명] 불^[동] 해고하다
+l3|30|suburb|[명] 교외
+l3|31|fit|[동] (옷이) 꼭 맞다
+l3|32|system|[명] 체계, 시스템
+l3|33|fix|[동] 1. 고치다 2. 고정시키다
+l3|34|talk|[동] 말하다
+l3|35|hug|[명] 포옹^[동] 포옹하다
+l3|36|think|[동] 생각하다
+l3|37|mirror|[명] 거울
+l3|38|word|[명] 단어
+l3|39|national|[형] 1. 국가의 2. 국민의
+l3|40|worth|[형] ~의 가치가 있는
+l3|01|air|[명] 공기
+l3|02|peanut|[명] 땅콩
+l3|03|attic|[명] 다락방
+l3|04|pear|[명] 배
+l3|05|bone|[명] 뼈
+l3|06|plum|[명] 자두
+l3|07|buy|[동] 사다
+l3|08|press|[동] 누르다
+l3|09|chief|[명] (단체) 장^[형] (계급) 제 1의
+l3|10|pretend|[동] ~인 척하다
+l3|11|deaf|[형] 귀먹은
+l3|12|recommend|[동] 추천하다
+l3|13|dumb|[형] 1. 벙어리의 2. 우둔한
+l3|14|rich|[형] 부유한
+l3|15|expression|[명] 1. 표현 2. 표정
+l3|16|sand|[명] 모래
+l3|17|fair|[형] 공평한
+l3|18|shell|[명] 조개 껍질
+l3|19|family|[명] 가족
+l3|20|short|[형] 짧은, 키가작은
+l3|21|garlic|[명] 마늘
+l3|22|sorrow|[명] 슬픔
+l3|23|hardship|[명] 고난
+l3|24|splendid|[형] 뛰어난, 멋진
+l3|25|hour|[명] 시간
+l3|26|succeed|[동] 성공하다
+l3|27|ladder|[명] 사다리
+l3|28|sweat|[명] 땀^[동] 땀을 흘리다
+l3|29|link|[명] 연결^[동] 연결하다
+l3|30|tomb|[명] 무덤
+l3|31|mud|[명] 진흙
+l3|32|try|[동] 1. 노력하다 2. 시도하다
+l3|33|necessary|[형] 필요한
+l3|34|want|[동] 원하다
+l3|35|nest|[명] 둥지
+l3|36|watermelon|[명] 수박
+l3|37|onion|[명] 양파
+l3|38|window|[명] 창문
+l3|39|opinion|[명] 의견
+l3|40|work|[동] 일하다^[명] 일,노동,수고,노력
+l3|01|accent|[명] 1. 말투 2. 강세
+l3|02|explore|[동] 탐험하다
+l3|03|adventure|[명] 모험
+l3|04|false|[형] 거짓의
+l3|05|aim|[명] 목표
+l3|06|February|[명] 2월
+l3|07|angle|[명] 각, 각도
+l3|08|January|[명] 1월
+l3|09|applaud|[동] ~에게 박수를 치다
+l3|10|July|[명] 7월
+l3|11|April|[명] 4월
+l3|12|June|[명] 6월
+l3|13|August|[명] 8월
+l3|14|March|[명] 3월
+l3|15|beast|[명] 짐승
+l3|16|May|[명] 5월
+l3|17|beauty|[명] 아름다움
+l3|18|merry|[형] 즐거운, 명랑한
+l3|19|beggar|[명] 거지
+l3|20|mystery|[명] 미스터리
+l3|21|carrot|[명] 당근
+l3|22|myth|[명] 신화
+l3|23|cash|[명] 현금
+l3|24|noise|[명] 소음
+l3|25|crown|[명] 왕관
+l3|26|November|[명] 11월
+l3|27|cucumber|[명] 오이
+l3|28|October|[명] 10월
+l3|29|damage|[명] 손해^[동] 손해를 입히다
+l3|30|pea|[명] 완두콩
+l3|31|data|[명] 자료
+l3|32|pumpkin|[명] 호박
+l3|33|December|[명] 12월
+l3|34|represent|[동] 1. 대표하다 2. 상징하다
+l3|35|delicious|[형] 맛있는
+l3|36|September|[명] 9월
+l3|37|deliver|[동] 배달하다, 전달하다
+l3|38|total|[형] 전체의^[명] 총액
+l3|39|exercise|[명] 운동^[동] 운동하다
+l3|40|vase|[명] 꽃병
+l3|01|address|[명] 주소^[동] 연설하다
+l3|02|gun|[명] 총
+l3|03|aloud|[부] 소리 내어
+l3|04|humor|[명] 유머
+l3|05|bare|[형] 옷을 입지 않은
+l3|06|instrument|[명] 기구
+l3|07|brick|[명] 벽돌
+l3|08|judge|[명] 판사^[동] 판단하다
+l3|09|canal|[명] 운하
+l3|10|junior|[형] 연하의
+l3|11|cane|[명] 지팡이
+l3|12|lonely|[형] 외로운
+l3|13|circle|[명] 원
+l3|14|nail|[명] 1. 손톱 2. 못
+l3|15|coal|[명] 석탄
+l3|16|organize|[동] 조직하다
+l3|17|common|[형] 1. 공통의 2. 평범한
+l3|18|overcome|[동] 극복하다
+l3|19|compare|[동] 비교하다
+l3|20|pleasant|[형] 유쾌한
+l3|21|contrast|[명] 대조
+l3|22|rectangle|[명] 직사각형
+l3|23|cube|[명] 정육면체
+l3|24|rent|[동] 빌리다, 임대하다
+l3|25|curious|[형] 호기심이 강한
+l3|26|roll|[동] 구르다
+l3|27|deal|[동] 다루다
+l3|28|sense|[명] 감각
+l3|29|declare|[동] 선언하다
+l3|30|shock|[명] 충격^[동] 충격을 주다
+l3|31|develop|[동] 개발하다
+l3|32|shut|[동] 닫다
+l3|33|direct|[형] 직접적인
+l3|34|square|[명] 정사각형
+l3|35|distant|[형] 먼
+l3|36|stove|[명] 스토브, 난로
+l3|37|evil|[명] 악^[형] 사악한
+l3|38|tight|[형] 꽉 끼는, 타이트한
+l3|39|final|[형] 마지막의^[명] 결승전
+l3|40|tragedy|[명] 비극
+l3|01|add|[동] 더하다
+l3|02|gap|[명] 1. 갈라진 틈 2. 격차
+l3|03|always|[부] 항상
+l3|04|generous|[형] 관대한
+l3|05|bald|[형] 대머리의
+l3|06|horrible|[형] 무서운, 끔찍한
+l3|07|barber|[명] 이발사
+l3|08|impossible|[형] 불가능한
+l3|09|basic|[형] 기초적인
+l3|10|lawyer|[명] 변호사
+l3|11|bite|[동] 깨물다
+l3|12|missile|[명] 미사일
+l3|13|brush|[명] 솔^[동] 솔질하다
+l3|14|narrow|[형] 좁은
+l3|15|butterfly|[명] 나비
+l3|16|opposite|[형] 반대편의
+l3|17|cart|[명] 손수레, 카트
+l3|18|pure|[형] 순수한
+l3|19|castle|[명] 성
+l3|20|purpose|[명] 목적
+l3|21|ceiling|[명] 천장
+l3|22|region|[명] 지역
+l3|23|change|[동] 변화하다^[명] 변화 
+l3|24|role|[명] 역할
+l3|25|comfortable|[형] 편안한
+l3|26|scientific|[형] 과학의, 과학적인
+l3|27|cough|[동] 기침하다
+l3|28|spaceship|[명] 우주선
+l3|29|desire|[명] 욕구, 욕망
+l3|30|successful|[형] 성공한
+l3|31|document|[명] 문서
+l3|32|swallow|[동] 삼키다^[명] 제비
+l3|33|elbow|[명] 팔꿈치
+l3|34|topic|[명] 화제, 주제
+l3|35|envy|[동] 부러워하다
+l3|36|union|[명] 연합, 연맹
+l3|37|faith|[명] 믿음
+l3|38|vacant|[형] 텅 빈
+l3|39|fever|[명] 열
+l3|40|yawn|[동] 하품하다

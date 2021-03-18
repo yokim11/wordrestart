@@ -1,0 +1,334 @@
+l1|1|example|[명] 예, 사례
+l1|2|stripe|[명] 줄무늬
+l1|3|price|[명] 가격
+l1|4|question|[명] 질문
+l1|5|bottle|[명] 병
+l1|6|function|[명] 기능
+l1|7|poem|[명] 시
+l1|8|bowl|[명] 그릇, 통
+l1|9|college|[명] 대학교
+l1|10|th        eater|[명] 극장
+l1|11|ceremony|[명] 의식
+l1|12|tradition|[명] 전통
+l1|13|square|[명] 정사각형, 광장
+l1|14|soil|[명] 흙, 토양
+l1|15|gap|[명] 차이
+l1|01|answer|[동] 대답하다^[명] 대답
+l1|02|newspaper|[명] 신문
+l1|03|own|[형] 자기 자신의
+l1|04|become|[동] ~이 되다
+l1|05|picnic|[명] 소풍
+l1|06|bell|[명] 종, 벨
+l1|07|plan|[명] 계획^[동] 계획하다
+l1|08|blanket|[명] 담요
+l1|09|call|[동] 전화하다, 부르다
+l1|10|plant|[명] 식물^[동] 식물을 심다
+l1|11|careful|[형] 조심하는
+l1|12|corner|[명] 모퉁이
+l1|13|poster|[명] 포스터
+l1|14|country|[명] 나라
+l1|15|river|[명] 강
+l1|16|daughter|[명] 딸
+l1|17|sail|[동] 항해하다
+l1|18|dead|[형] 죽은
+l1|19|second|[형] 두 번째의
+l1|20|enjoy|[동] 즐기다
+l1|21|send|[동] 보내다
+l1|22|excuse|[동] 실례하다
+l1|23|son|[명] 아들
+l1|24|finger|[명] 손가락
+l1|25|speech|[명] 연설
+l1|26|follow|[동] 따라가다
+l1|27|time|[명] 시간
+l1|28|hope|[동] 희망하다^[명] 희망 
+l1|29|touch|[동] 손을 대다
+l1|30|use|[동] 사용하다^[명] 유용함
+l1|31|hundred|[명] 백(100)
+l1|32|let|[동] ~하게 하다
+l1|33|useful|[형] 유용한
+l1|34|live|[동] 살다
+l1|35|way|[명] 길, 방법
+l1|36|midnight|[명] 자정
+l1|37|world|[명] 세계
+l1|38|worry|[동] 걱정하다
+l1|39|year|[명] 연도
+l1|01|afraid|[형] 두려워 하는
+l1|02|letter|[명] 편지
+l1|03|airport|[명] 공항
+l1|04|moon|[명] 달
+l1|05|album|[명] 앨범
+l1|06|museum|[명] 박물관
+l1|07|aunt|[명] 고모, 이모, 숙모
+l1|08|perhaps|[부] 아마도
+l1|09|bank|[명] 은행
+l1|10|picture|[명] 그림, 사진
+l1|11|body|[명] 몸
+l1|12|piece|[명] 조각
+l1|13|bother|[동] 방해하다
+l1|14|place|[명] 장소
+l1|15|busy|[형] 바쁜
+l1|16|present|[명] 선물, 현재
+l1|17|cave|[명] 동굴
+l1|18|quite|[부] 꽤
+l1|19|company|[명] 회사
+l1|20|rock|[명] 바위
+l1|21|computer|[명] 컴퓨터
+l1|22|silence|[명] 침묵
+l1|23|crowd|[명] 군중
+l1|24|seem|[동] ~인 것 같다
+l1|25|dream|[명] 꿈^[동] 꿈꾸다
+l1|26|shout|[동] 소리지르다
+l1|27|thousand|[명] 천(1000)
+l1|28|example|[명] 예
+l1|29|train|[명] 기차
+l1|30|garden|[명] 정원
+l1|31|travel|[동] 여행하다^[명] 여행 
+l1|32|glass|[명] 유리
+l1|33|hospital|[명] 병원
+l1|34|trip|[명] (짧은)여행
+l1|35|hotel|[명] 호텔
+l1|36|uncle|[명] 삼촌
+l1|37|hurry|[동] 서두르다
+l1|38|understand|[동] 이해하다
+l1|39|leave|[동] 떠나다
+l1|40|wonder|[동] 궁금해하다
+l1|01|about|[전] ~에 대하여
+l1|02|land|[명] 땅
+l1|03|arrive|[동] 도착하다
+l1|04|light|[명] 빛, 전등^[형] 가벼운
+l1|05|boat|[명] 보트
+l1|06|bread|[명] 빵
+l1|07|mistake|[명] 실수
+l1|08|bring|[동] 가져오다
+l1|09|news|[명] 소식
+l1|10|card|[명] 카드
+l1|11|parents|[명] 부모님
+l1|12|carry|[동] 나르다
+l1|13|part|[명] 부분
+l1|14|chance|[명] 기회
+l1|15|pool|[명] 웅덩이
+l1|16|climb|[동] (산)오르다
+l1|17|remember|[동] 기억하다
+l1|18|course|[명] 과목
+l1|19|restaurant|[명] 식당
+l1|20|cover|[동] 덮다^[명] 덮개
+l1|21|ring|[명] 반지^[동] (종)울리다
+l1|22|cream|[명] 크림
+l1|23|road|[명] 도로
+l1|24|drink|[동] 마시다
+l1|25|shop|[명] 가게^[동] 쇼핑하다
+l1|26|famous|[형] 유명한
+l1|27|farm|[명] 농장
+l1|28|show|[명] 쇼 ^[동] 보여주다
+l1|29|free|[형] 공짜의, 자유로운
+l1|30|hill|[명] 언덕
+l1|31|side|[명] 옆
+l1|32|history|[명] 역사
+l1|33|sleepy|[형] 졸린
+l1|34|interesting|[형] 재미있는
+l1|35|song|[명] 노래
+l1|36|kitchen|[명] 부엌
+l1|37|special|[형] 특별한
+l1|38|station|[명] 역
+l1|39|town|[명] 읍, 시
+l1|40|wife|[명] 아내
+l1|01|able|[형] 할 수 있는
+l1|02|job|[명] 직업
+l1|03|ask|[동] 묻다
+l1|04|keep|[동] 간직하다
+l1|05|break|[동] 깨뜨리다, 부수다
+l1|06|laugh|[동] 웃다
+l1|07|build|[동] 짓다
+l1|08|leader|[명] 지도자
+l1|09|catch|[동] 잡다
+l1|10|mask|[명] 가면
+l1|11|close|[동] 닫다
+l1|12|mean|[동] 의미하다
+l1|13|doctor|[명] 의사
+l1|14|mountain|[명] 산
+l1|15|doll|[명] 인형
+l1|16|notebook|[명] 공책
+l1|17|earth|[명] 지구
+l1|18|pass|[동] 통과하다
+l1|19|enough|[형] 충분한^[부] 충분히
+l1|20|plane|[명] 비행기
+l1|21|print|[동] 인쇄하다
+l1|22|fail|[동] 실패하다
+l1|23|quick|[형] 빠른
+l1|24|finish|[동] 끝내다
+l1|25|ride|[동] (자전거)타다
+l1|26|full|[형] 가득 찬, 배부른
+l1|27|several|[형] 몇몇의
+l1|28|glove|[명] 장갑
+l1|29|street|[명] 거리
+l1|30|grow|[동] 자라다, 기르다
+l1|31|tea|[명] (마시는)차
+l1|32|half|[명] 반
+l1|33|tower|[명] 탑
+l1|34|happen|[동] (사건)발생하다
+l1|35|true |[형] 진실의, 사실의
+l1|36|hunt|[동] 사냥하다
+l1|37|voice|[명] 목소리
+l1|38|husband|[명] 남편
+l1|39|wonderful|[형] 멋진, 훌륭한
+l1|40|island|[명] 섬
+l1|01|accident|[명] 사고, 우연
+l1|02|heart|[명] 심장, 마음
+l1|03|age|[명] 나이
+l1|04|idle|[형] 나태한
+l1|05|angry|[형] 화난
+l1|06|indoor|[형] 실내의
+l1|07|balloon|[명] 풍선
+l1|08|kill|[동] 죽이다
+l1|09|bicycle|[명] 자전거
+l1|10|mile|[명] 마일
+l1|11|bold|[형] 대담한
+l1|12|office|[명] 사무실
+l1|13|building|[명] 건물
+l1|14|outdoor|[형] 야외의
+l1|15|care|[명] 조심, 보살핌
+l1|16|paint|[동] 페인트 칠하다^[명] 페인트  
+l1|17|century|[명] 100년, 세기
+l1|18|clothes|[명] 옷
+l1|19|pole|[명] 긴 막대
+l1|20|college|[명] 대학
+l1|21|reach|[동] 도착하다
+l1|22|drive|[동] 운전하다
+l1|23|shirt|[명] 셔츠
+l1|24|exciting|[형] 신나는, 흥미진진한
+l1|25|sign|[명] 표지
+l1|26|fact|[명] 사실
+l1|27|silver|[명] 은
+l1|28|finally|[부] 드디어, 마침내
+l1|29|soldier|[명] 군인
+l1|30|flake|[명] 얇은 조각
+l1|31|sound|[명] 소리^[형] 건전한
+l1|32|foreigner|[명] 외국인
+l1|33|gold|[명] 금
+l1|34|sport|[명] 스포츠
+l1|35|guess|[동] 추측하다
+l1|36|stone|[명] 돌
+l1|37|harvest|[명] 수확
+l1|38|suddenly|[부] 갑자기
+l1|39|treat|[동] 다루다
+l1|40|weather|[명] 날씨
+l1|01|alone|[부] 홀로
+l1|02|library|[명] 도서관
+l1|03|autumn|[명] 가을
+l1|04|lose|[동] 잃어버리다, (경기)지다
+l1|05|bear|[명] 곰
+l1|06|member|[명] 회원
+l1|07|believe|[동] 믿다
+l1|08|mind|[명] 정신^[동] 꺼리다, 싫어하다
+l1|09|camera|[명] 카메라
+l1|10|culture|[명] 문화
+l1|11|problem|[명] 문제
+l1|12|decide|[동] 결심하다, 결정하다
+l1|13|pull|[동] 잡아당기다
+l1|14|dictionary|[명] 사전
+l1|15|quiet|[형] 조용한
+l1|16|different|[형] 다른
+l1|17|return|[동] 돌아가다
+l1|18|dish|[명] 접시
+l1|19|sandwich|[명] 샌드위치
+l1|20|field|[명] 들판
+l1|21|seat|[명] 자리, 좌석
+l1|22|floor|[명] 방바닥, 층
+l1|23|shake|[동] 흔들다
+l1|24|foreign|[형] 외국의
+l1|25|spend|[동] (돈, 시간)쓰다
+l1|26|ground|[명] 땅바닥
+l1|27|store|[명] 가게
+l1|28|head|[명] 머리
+l1|29|strange|[형] 이상한
+l1|30|hold|[동] (손에)잡다
+l1|31|strong|[형] 힘센
+l1|32|hole|[명] 구멍
+l1|33|surprise|[동] 놀라게 하다
+l1|34|holiday|[명] 휴일
+l1|35|trouble|[명] 곤란, 곤경
+l1|36|language|[명] 언어
+l1|37|village|[명] 마을
+l1|38|lately|[부] 최근에
+l1|39|wear|[동] (옷)입다, (신발)신다
+l1|40|wood|[명] 나무
+l1|01|agree|[동] 동의하다
+l1|02|mark|[명] 자국
+l1|03|blackboard|[명] 칠판
+l1|04|meaning|[명] 뜻, 의미
+l1|05|bright|[형] 밝은, 명석한
+l1|06|miss|[동] 그리워하다, 놓치다
+l1|07|business|[명] 사업
+l1|08|mix|[동] 섞다
+l1|09|cheer|[동] 환호하다^[명] 환호 
+l1|10|moment|[명] 잠깐
+l1|11|north|[명] 북쪽
+l1|12|chocolate|[명] 초콜릿
+l1|13|pocket|[명] 주머니
+l1|14|choose|[동] 고르다
+l1|15|police|[명] 경찰
+l1|16|church|[명] 교회
+l1|17|record|[명] 기록^[동] 기록하다
+l1|18|coin|[명] 동전
+l1|19|continue|[동] 계속하다
+l1|20|robot|[명] 로봇
+l1|21|cousin|[명] 사촌
+l1|22|rocket|[명] 로켓
+l1|23|east|[명] 동쪽
+l1|24|scientist|[명] 과학자
+l1|25|factory|[명] 공장
+l1|26|sentence|[명] 문장
+l1|27|farmer|[명] 농부
+l1|28|south|[명] 남쪽
+l1|29|flight|[동] 싸우다^[명] 싸움
+l1|30|speed|[명] 속도
+l1|31|ticket|[명] 표
+l1|32|film|[명] 필름, 영화
+l1|33|unhappy|[형] 불행한
+l1|34|future|[명] 미래
+l1|35|vacation|[명] 방학, 휴가
+l1|36|grass|[명] 풀, 잔디밭
+l1|37|west|[명] 서쪽
+l1|38|information|[명] 정보
+l1|39|wild|[형] 야생의
+l1|40|line|[명] 줄
+l1|01|across|[전] 건너편에
+l1|02|near|[전] ~가까이에
+l1|03|ago|[부] ~전에
+l1|04|never|[부] 결코 ~않다
+l1|05|bean|[명] 콩
+l1|06|pack|[동] 짐을 싸다
+l1|07|behind|[전] ~뒤에
+l1|08|peach|[명] 복숭아
+l1|09|between|[전] ~사이에
+l1|10|pillow|[명] 베개
+l1|11|breakfast|[명] 아침식사
+l1|12|ready|[형] 준비된
+l1|13|cloud|[명] 구름
+l1|14|really|[부] 정말로
+l1|15|cry|[동] 울다, 소리치다
+l1|16|relationship|[명] 관계
+l1|17|cute|[형] 귀여운
+l1|18|root|[명] 뿌리
+l1|19|die|[동] 죽다
+l1|20|salt|[명] 소금
+l1|21|difficult|[형] 어려운
+l1|22|sell|[동] 팔다
+l1|23|dinosaur|[명] 공룡
+l1|24|shark|[명] 상어
+l1|25|dolphin|[명] 돌고래
+l1|26|shine|[동] 빛나다
+l1|27|easy|[형] 쉬운
+l1|28|throw|[동] 던지다
+l1|29|grocery|[명] 식료품
+l1|30|tray|[명] 쟁반
+l1|31|headache|[명] 두통
+l1|32|turn|[동] 방향을 틀다
+l1|33|invite|[동] 초대하다
+l1|34|wide|[형] 넓은
+l1|35|kettle|[명] 주전자
+l1|36|win|[동] 이기다
+l1|37|learn|[동] 배우다
+l1|38|write|[동] (글) 쓰다
+l1|39|move|[동] 움직이다, 이사하다
+l1|40|zone|[명] 구역
